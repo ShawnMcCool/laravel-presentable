@@ -4,7 +4,7 @@
 
 Presentable provides a presentation layer designed for quick and easy implementation for typical Laravel applications.
 
-You can see this bundle in use here: [You can see it in use here: https://github.com/ShawnMcCool/laravel-io](You can see it in use here: https://github.com/ShawnMcCool/laravel-io)
+You can see this bundle in use here: [https://github.com/ShawnMcCool/laravel-io](https://github.com/ShawnMcCool/laravel-io)
 
 ### History
 
