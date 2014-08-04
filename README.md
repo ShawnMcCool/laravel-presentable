@@ -1,3 +1,6 @@
+This package will be deleted soon. If you want it for any reason either fork it or contact me and I'll transfer ownership to you.
+
+
 ## Presentable - Another Presenter Bundle 
 
 **Version: 1.0**
